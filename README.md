@@ -26,28 +26,28 @@ This WebApp won the First Prize at the same.
 
 -Twitter Stream data analysis to coordinate response and relief.
 
-##Screenshots
+## Screenshots
 
-###Initiate Disaster
+### Initiate Disaster
 
 ![Screenshot](screenshots/code1.png)
 
-###Place Suggestion
+### Place Suggestion
 
 ![Screenshot](screenshots/code3.png)
 
-###Hospital Monitoring
+### Hospital Monitoring
 
 ![Screenshot](screenshots/code5.png)
 
-###Heatmap
+### Heatmap
 
 ![Screenshot](screenshots/code7.png)
 
-###SMS Stream clustering/analysis
+### SMS Stream clustering/analysis
 
 ![Screenshot](screenshots/code8.png)
 
-###Facial Recognition for relief
+### Facial Recognition for relief
 
 ![Screenshot](screenshots/code9.png)
